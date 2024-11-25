@@ -1,3 +1,11 @@
+# Cómo Hacer Presentaciones
+- Descripción:  Presentación acerca de cómo hacer presentaciones. Consejos e indicaciones sobre exposición oral, cómo elaborar diapositivas, tipos de presentaciones, herramientas, etc.
+- Unidad Didáctica: Presentaciones. 
+- Módulo:  Aplicaciones Ofimáticas
+- Ciclo:  Sistemas Microinformáticos y Redes
+
+---
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text-sticker.png" alt="reveal.js" width="500">
@@ -7,13 +15,6 @@
   <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
 </p>
 
-# Cómo Hacer Presentaciones
-- Descripción:  Presentación acerca de cómo hacer presentaciones. Consejos e indicaciones sobre exposición oral, cómo elaborar diapositivas, tipos de presentaciones, herramientas, etc.
-- Unidad Didáctica: Presentaciones. 
-- Módulo:  Aplicaciones Ofimáticas
-- Ciclo:  Sistemas Microinformáticos y Redes
-
----
 ### reveal.js 
 Entorno para la creación de presentaciones en HTML. Permite crear presentaciones atractivas de forma gratuita utilizando únicamente un navegador web.
 
@@ -25,7 +26,7 @@ El entorno incluye un potente conjunto de características, tales como [diaposit
 
 ---
 
-### Por dónde empezar
+### Por dónde empezar con reveal.js
 - 🚀 [Install reveal.js](https://revealjs.com/installation)
 - 👀 [View the demo presentation](https://revealjs.com/demo)
 - 📖 [Read the documentation](https://revealjs.com/markup/)
@@ -34,5 +35,5 @@ El entorno incluye un potente conjunto de características, tales como [diaposit
 
 --- 
 <div align="center">
-  MIT licensed | Copyright © 2011-2024 Hakim El Hattab, https://hakim.se
+  RevealJS es un producto bajo licencia MIT | Copyright © 2011-2024 Hakim El Hattab, https://hakim.se
 </div>
